@@ -2,11 +2,11 @@
 
 This repository contains the code developed for my Master's Thesis "Deconvolving the Transcriptomic Signatures of Somatic Expansion in Huntington’s Disease through Deep Generative Models".
 
+
+Author: Caterina Fuses i Kuzmina \
+Supervisors: Dr. Jordi Abante, Prof. Dr. Jordi Vitrià \
 Master's in the Fundamental Principles of Data Science, Universitat de Barcelona.
 
-Author: Caterina Fuses i Kuzmina
-
-Supervisors: Dr. Jordi Abante, Prof. Dr. Jordi Vitrià
 
 ## Repository structure
 
